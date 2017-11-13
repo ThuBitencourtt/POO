@@ -8,7 +8,7 @@ package dados;
 import java.util.logging.Logger;
 
 /**
- *
+ * Classe que usa o padrão Singleton para controlar todas classes do sistema
  * @author thuani.bittencourtt
  */
 public class Sistema {

@@ -6,7 +6,7 @@ import java.util.Objects;
 import java.util.logging.Logger;
 
 /**
- *
+ * Representa uma turma
  * @author thuani.bittencourtt
  */
 public class Turma {

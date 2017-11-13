@@ -6,7 +6,7 @@
 package Telas;
 
 /**
- *
+ * Tela principal da aplicação
  * @author thuani.bittencourtt
  */
 public class TelaMenuAluno extends javax.swing.JFrame {

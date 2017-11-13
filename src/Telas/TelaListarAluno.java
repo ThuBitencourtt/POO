@@ -6,7 +6,7 @@
 package Telas;
 
 /**
- *
+ * Tela da listagem de alunos
  * @author thuan
  */
 public class TelaListarAluno extends javax.swing.JFrame {

@@ -6,7 +6,7 @@
 package Telas;
 
 /**
- *
+ * Tela para excluir aluno
  * @author thuani.bittencourtt
  */
 public class TelaExcluirAluno extends javax.swing.JFrame {

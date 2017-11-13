@@ -4,7 +4,7 @@ import java.util.Objects;
 import java.util.logging.Logger;
 
 /**
- *
+ * Representa um aluno
  * @author thuani.bittencourtt
  */
 public class Aluno {

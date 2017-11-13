@@ -10,7 +10,7 @@ import dados.Sistema;
 import dados.Turma;
 
 /**
- *
+ * Tela para incluir alunos
  * @author thuani.bittencourtt
  */
 public class TelaIncluirAluno extends javax.swing.JFrame {

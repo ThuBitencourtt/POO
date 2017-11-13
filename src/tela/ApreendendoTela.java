@@ -9,7 +9,7 @@ package tela;
 import Telas.TelaMenuAluno;
 
 /**
- *
+ * Programa prinicipal que chama a tela de menu
  * @author thuani.bittencourtt
  */
 public class ApreendendoTela {
